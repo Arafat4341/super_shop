@@ -1,0 +1,10 @@
+.um{
+	margin: 0;
+	padding: 0;
+}
+.pb{
+	text-align: center;
+}
+.tb tr th, tr td{
+	text-align: center;
+}

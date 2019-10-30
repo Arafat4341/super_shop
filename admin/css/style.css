@@ -1,0 +1,21 @@
+.menu{
+	margin: 0;
+	padding: 0;
+}
+.menu nav{
+	border-radius: 0;
+}
+.loadf{
+	
+    border: 1px solid silver;
+    padding: 10px;
+    background-color: #dddddd;
+
+}
+.em img{
+	height: 250px;
+	width: 260px;
+}
+.spanel{
+	border-radius: 10px;
+}
